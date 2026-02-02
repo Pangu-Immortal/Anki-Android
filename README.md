@@ -1,9 +1,9 @@
+
 <div align="center">
 
 ![萌萌计数器](https://count.getloli.com/get/@Anki-Android?theme=rule34)
 
 </div>
-
 
 <p align="center">
 <img src="docs/graphics/logos/banner_readme.png"/>
